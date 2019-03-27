@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     
     'debug_toolbar',
 
+    'widget_tweaks',
+
     # my apps
     'boards', 
 ]
